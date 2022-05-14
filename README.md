@@ -1,6 +1,6 @@
 # fintech_challenge_20
-
 This challenge involved creating a solidity application which has the capabilities of setting accounts, deposit, withdrawl, and more.
+
 ---
 ## Use
 
